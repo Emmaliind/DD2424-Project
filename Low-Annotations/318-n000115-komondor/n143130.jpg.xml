@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>318-n000115-komondor</folder>
+	<filename>n143130.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>komondor</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>115</xmin>
+		<ymin>21</ymin>
+		<xmax>187</xmax>
+		<ymax>95</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>47</xmin>
+		<ymin>16</ymin>
+		<xmax>219</xmax>
+		<ymax>170</ymax>
+	</bodybndbox>
+</object>
+</annotation>

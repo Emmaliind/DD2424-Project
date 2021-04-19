@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>235-n000096-Weimaraner</folder>
+	<filename>n126500.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Weimaraner</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>40</xmin>
+		<ymin>32</ymin>
+		<xmax>345</xmax>
+		<ymax>318</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>30</xmin>
+		<ymin>45</ymin>
+		<xmax>328</xmax>
+		<ymax>383</ymax>
+	</bodybndbox>
+</object>
+</annotation>

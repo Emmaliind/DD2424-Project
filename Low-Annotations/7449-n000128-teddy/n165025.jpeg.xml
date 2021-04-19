@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>7449-n000128-teddy</folder>
+	<filename>n165025.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>teddy</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>50</xmin>
+		<ymin>39</ymin>
+		<xmax>347</xmax>
+		<ymax>287</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>63</xmin>
+		<ymin>39</ymin>
+		<xmax>528</xmax>
+		<ymax>503</ymax>
+	</bodybndbox>
+</object>
+</annotation>

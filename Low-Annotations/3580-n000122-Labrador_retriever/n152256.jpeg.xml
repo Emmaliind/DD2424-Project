@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>3580-n000122-Labrador_retriever</folder>
+	<filename>n152256.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>559</width>
+		<height>539</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Labrador_retriever</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>38</xmin>
+		<ymin>88</ymin>
+		<xmax>245</xmax>
+		<ymax>303</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>29</xmin>
+		<ymin>59</ymin>
+		<xmax>559</xmax>
+		<ymax>539</ymax>
+	</bodybndbox>
+</object>
+</annotation>

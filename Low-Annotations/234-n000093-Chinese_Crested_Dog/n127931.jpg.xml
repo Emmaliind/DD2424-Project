@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>234-n000093-Chinese_Crested_Dog</folder>
+	<filename>n127931.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Chinese_Crested_Dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>64</xmin>
+		<ymin>7</ymin>
+		<xmax>143</xmax>
+		<ymax>66</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>60</xmin>
+		<ymin>9</ymin>
+		<xmax>274</xmax>
+		<ymax>183</ymax>
+	</bodybndbox>
+</object>
+</annotation>

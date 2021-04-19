@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>361-n000123-Shih_Tzu</folder>
+	<filename>n154513.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Shih_Tzu</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>186</xmin>
+		<ymin>4</ymin>
+		<xmax>374</xmax>
+		<ymax>204</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>52</xmin>
+		<ymin>0</ymin>
+		<xmax>375</xmax>
+		<ymax>470</ymax>
+	</bodybndbox>
+</object>
+</annotation>

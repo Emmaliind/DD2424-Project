@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000061-Bernese_mountain_dog</folder>
+	<filename>n118488.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Bernese_mountain_dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>128</xmin>
+		<ymin>90</ymin>
+		<xmax>372</xmax>
+		<ymax>306</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>5</xmin>
+		<ymin>72</ymin>
+		<xmax>499</xmax>
+		<ymax>298</ymax>
+	</bodybndbox>
+</object>
+</annotation>

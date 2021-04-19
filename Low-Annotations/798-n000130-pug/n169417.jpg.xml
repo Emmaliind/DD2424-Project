@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>798-n000130-pug</folder>
+	<filename>n169417.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>pug</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>83</xmin>
+		<ymin>80</ymin>
+		<xmax>180</xmax>
+		<ymax>154</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>72</xmin>
+		<ymin>67</ymin>
+		<xmax>342</xmax>
+		<ymax>270</ymax>
+	</bodybndbox>
+</object>
+</annotation>

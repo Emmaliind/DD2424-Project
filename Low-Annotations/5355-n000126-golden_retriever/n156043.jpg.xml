@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>5355-n000126-golden_retriever</folder>
+	<filename>n156043.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>403</width>
+		<height>302</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>golden_retriever</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>75</xmin>
+		<ymin>155</ymin>
+		<xmax>167</xmax>
+		<ymax>246</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>72</xmin>
+		<ymin>0</ymin>
+		<xmax>287</xmax>
+		<ymax>267</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>215-n000075-Chesapeake_Bay_retriever</folder>
+	<filename>n121573.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Chesapeake_Bay_retriever</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>136</xmin>
+		<ymin>106</ymin>
+		<xmax>229</xmax>
+		<ymax>186</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>136</xmin>
+		<ymin>105</ymin>
+		<xmax>428</xmax>
+		<ymax>304</ymax>
+	</bodybndbox>
+</object>
+</annotation>

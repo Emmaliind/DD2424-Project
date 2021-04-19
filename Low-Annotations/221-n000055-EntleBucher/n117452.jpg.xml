@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>221-n000055-EntleBucher</folder>
+	<filename>n117452.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>EntleBucher</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>162</xmin>
+		<ymin>98</ymin>
+		<xmax>325</xmax>
+		<ymax>207</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>129</xmin>
+		<ymin>96</ymin>
+		<xmax>364</xmax>
+		<ymax>332</ymax>
+	</bodybndbox>
+</object>
+</annotation>

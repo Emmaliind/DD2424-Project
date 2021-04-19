@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>217-n000046-Norwegian_elkhound</folder>
+	<filename>n115841.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Norwegian_elkhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>8</xmin>
+		<ymin>0</ymin>
+		<xmax>104</xmax>
+		<ymax>89</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>5</xmin>
+		<ymin>0</ymin>
+		<xmax>306</xmax>
+		<ymax>270</ymax>
+	</bodybndbox>
+</object>
+</annotation>

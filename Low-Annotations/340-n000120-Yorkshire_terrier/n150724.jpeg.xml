@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>340-n000120-Yorkshire_terrier</folder>
+	<filename>n150724.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Yorkshire_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>55</xmin>
+		<ymin>58</ymin>
+		<xmax>217</xmax>
+		<ymax>270</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>46</xmin>
+		<ymin>53</ymin>
+		<xmax>472</xmax>
+		<ymax>487</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000018-German_shepherd</folder>
+	<filename>n108085.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>German_shepherd</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>69</xmin>
+		<ymin>33</ymin>
+		<xmax>204</xmax>
+		<ymax>217</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>61</xmin>
+		<ymin>22</ymin>
+		<xmax>279</xmax>
+		<ymax>394</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>207-n000036-Irish_terrier</folder>
+	<filename>n113860.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Irish_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>0</xmin>
+		<ymin>0</ymin>
+		<xmax>76</xmax>
+		<ymax>73</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>0</ymin>
+		<xmax>180</xmax>
+		<ymax>154</ymax>
+	</bodybndbox>
+</object>
+</annotation>

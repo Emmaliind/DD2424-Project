@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>210-n000048-vizsla</folder>
+	<filename>n115984.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>vizsla</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>186</xmin>
+		<ymin>265</ymin>
+		<xmax>246</xmax>
+		<ymax>322</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>118</xmin>
+		<ymin>265</ymin>
+		<xmax>289</xmax>
+		<ymax>409</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>210-n000006-Ibizan_hound</folder>
+	<filename>n106769.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Ibizan_hound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>291</xmin>
+		<ymin>114</ymin>
+		<xmax>362</xmax>
+		<ymax>203</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>49</xmin>
+		<ymin>116</ymin>
+		<xmax>362</xmax>
+		<ymax>390</ymax>
+	</bodybndbox>
+</object>
+</annotation>

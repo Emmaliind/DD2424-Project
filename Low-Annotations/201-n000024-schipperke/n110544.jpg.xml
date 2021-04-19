@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>201-n000024-schipperke</folder>
+	<filename>n110544.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>358</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>schipperke</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>41</xmin>
+		<ymin>89</ymin>
+		<xmax>268</xmax>
+		<ymax>380</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>86</ymin>
+		<xmax>358</xmax>
+		<ymax>482</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>232-n000083-Eskimo_dog</folder>
+	<filename>n123336.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Eskimo_dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>0</xmin>
+		<ymin>136</ymin>
+		<xmax>221</xmax>
+		<ymax>315</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>111</ymin>
+		<xmax>375</xmax>
+		<ymax>329</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>276-n000113-beagle</folder>
+	<filename>n137164.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>beagle</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>77</xmin>
+		<ymin>47</ymin>
+		<xmax>247</xmax>
+		<ymax>196</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>46</xmin>
+		<ymin>39</ymin>
+		<xmax>253</xmax>
+		<ymax>353</ymax>
+	</bodybndbox>
+</object>
+</annotation>

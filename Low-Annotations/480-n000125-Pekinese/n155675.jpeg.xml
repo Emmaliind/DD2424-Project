@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>480-n000125-Pekinese</folder>
+	<filename>n155675.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Pekinese</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>0</xmin>
+		<ymin>96</ymin>
+		<xmax>123</xmax>
+		<ymax>191</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>75</ymin>
+		<xmax>330</xmax>
+		<ymax>353</ymax>
+	</bodybndbox>
+</object>
+</annotation>

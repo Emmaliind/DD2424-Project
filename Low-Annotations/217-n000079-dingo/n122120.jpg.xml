@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>217-n000079-dingo</folder>
+	<filename>n122120.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>dingo</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>81</xmin>
+		<ymin>21</ymin>
+		<xmax>135</xmax>
+		<ymax>89</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>5</xmin>
+		<ymin>18</ymin>
+		<xmax>280</xmax>
+		<ymax>156</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>253-n000107-Japanese_Spitzes</folder>
+	<filename>n133110.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Japanese_Spitzes</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>79</xmin>
+		<ymin>45</ymin>
+		<xmax>247</xmax>
+		<ymax>224</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>12</xmin>
+		<ymin>34</ymin>
+		<xmax>250</xmax>
+		<ymax>466</ymax>
+	</bodybndbox>
+</object>
+</annotation>

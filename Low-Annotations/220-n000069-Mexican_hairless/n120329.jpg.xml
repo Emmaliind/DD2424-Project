@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>220-n000069-Mexican_hairless</folder>
+	<filename>n120329.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Mexican_hairless</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>146</xmin>
+		<ymin>40</ymin>
+		<xmax>551</xmax>
+		<ymax>420</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>135</xmin>
+		<ymin>1</ymin>
+		<xmax>556</xmax>
+		<ymax>560</ymax>
+	</bodybndbox>
+</object>
+</annotation>

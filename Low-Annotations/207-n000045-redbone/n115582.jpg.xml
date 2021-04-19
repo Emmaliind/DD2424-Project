@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>207-n000045-redbone</folder>
+	<filename>n115582.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>redbone</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>7</xmin>
+		<ymin>26</ymin>
+		<xmax>366</xmax>
+		<ymax>400</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>6</xmin>
+		<ymin>27</ymin>
+		<xmax>370</xmax>
+		<ymax>500</ymax>
+	</bodybndbox>
+</object>
+</annotation>

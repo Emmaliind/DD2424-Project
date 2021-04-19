@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>3336-n000121-chinese_rural_dog</folder>
+	<filename>n149366.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>chinese_rural_dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>89</xmin>
+		<ymin>62</ymin>
+		<xmax>284</xmax>
+		<ymax>212</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>79</xmin>
+		<ymin>62</ymin>
+		<xmax>284</xmax>
+		<ymax>383</ymax>
+	</bodybndbox>
+</object>
+</annotation>

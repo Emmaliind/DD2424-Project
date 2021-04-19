@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>241-n000100-basset</folder>
+	<filename>n128868.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>basset</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>14</xmin>
+		<ymin>3</ymin>
+		<xmax>138</xmax>
+		<ymax>155</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>14</xmin>
+		<ymin>3</ymin>
+		<xmax>226</xmax>
+		<ymax>218</ymax>
+	</bodybndbox>
+</object>
+</annotation>

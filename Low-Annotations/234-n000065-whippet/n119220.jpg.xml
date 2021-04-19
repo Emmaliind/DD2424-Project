@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>234-n000065-whippet</folder>
+	<filename>n119220.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>whippet</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>99</xmin>
+		<ymin>22</ymin>
+		<xmax>226</xmax>
+		<ymax>125</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>101</xmin>
+		<ymin>19</ymin>
+		<xmax>401</xmax>
+		<ymax>388</ymax>
+	</bodybndbox>
+</object>
+</annotation>

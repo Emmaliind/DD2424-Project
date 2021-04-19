@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000025-African_hunting_dog</folder>
+	<filename>n110554.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>African_hunting_dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>74</xmin>
+		<ymin>36</ymin>
+		<xmax>205</xmax>
+		<ymax>174</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>68</xmin>
+		<ymin>31</ymin>
+		<xmax>246</xmax>
+		<ymax>205</ymax>
+	</bodybndbox>
+</object>
+</annotation>

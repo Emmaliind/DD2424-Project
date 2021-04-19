@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>216-n000078-American_Staffordshire_terrier</folder>
+	<filename>n122300.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>American_Staffordshire_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>62</xmin>
+		<ymin>7</ymin>
+		<xmax>149</xmax>
+		<ymax>84</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>44</xmin>
+		<ymin>5</ymin>
+		<xmax>186</xmax>
+		<ymax>221</ymax>
+	</bodybndbox>
+</object>
+</annotation>

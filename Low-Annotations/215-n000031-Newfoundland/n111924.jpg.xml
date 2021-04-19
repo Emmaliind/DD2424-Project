@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>215-n000031-Newfoundland</folder>
+	<filename>n111924.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Newfoundland</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>121</xmin>
+		<ymin>144</ymin>
+		<xmax>226</xmax>
+		<ymax>240</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>66</xmin>
+		<ymin>117</ymin>
+		<xmax>230</xmax>
+		<ymax>427</ymax>
+	</bodybndbox>
+</object>
+</annotation>

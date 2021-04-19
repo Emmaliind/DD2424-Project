@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>205-n000029-Pembroke</folder>
+	<filename>n111459.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Pembroke</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>331</xmin>
+		<ymin>76</ymin>
+		<xmax>603</xmax>
+		<ymax>313</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>58</xmin>
+		<ymin>70</ymin>
+		<xmax>641</xmax>
+		<ymax>521</ymax>
+	</bodybndbox>
+</object>
+</annotation>

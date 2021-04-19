@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>224-n000060-Rottweiler</folder>
+	<filename>n116485.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>145</width>
+		<height>348</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Rottweiler</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>117</xmin>
+		<ymin>31</ymin>
+		<xmax>200</xmax>
+		<ymax>119</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>15</xmin>
+		<ymin>30</ymin>
+		<xmax>216</xmax>
+		<ymax>145</ymax>
+	</bodybndbox>
+</object>
+</annotation>

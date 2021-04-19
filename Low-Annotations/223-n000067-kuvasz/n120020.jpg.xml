@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>223-n000067-kuvasz</folder>
+	<filename>n120020.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>248</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>kuvasz</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>72</xmin>
+		<ymin>82</ymin>
+		<xmax>142</xmax>
+		<ymax>157</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>28</xmin>
+		<ymin>39</ymin>
+		<xmax>150</xmax>
+		<ymax>211</ymax>
+	</bodybndbox>
+</object>
+</annotation>

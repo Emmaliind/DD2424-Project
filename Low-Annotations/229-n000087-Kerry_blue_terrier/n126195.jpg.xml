@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>229-n000087-Kerry_blue_terrier</folder>
+	<filename>n126195.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>148</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Kerry_blue_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>8</xmin>
+		<ymin>7</ymin>
+		<xmax>102</xmax>
+		<ymax>102</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>0</ymin>
+		<xmax>148</xmax>
+		<ymax>181</ymax>
+	</bodybndbox>
+</object>
+</annotation>

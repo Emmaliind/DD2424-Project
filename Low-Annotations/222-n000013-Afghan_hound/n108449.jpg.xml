@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>222-n000013-Afghan_hound</folder>
+	<filename>n108449.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>494</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Afghan_hound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>215</xmin>
+		<ymin>132</ymin>
+		<xmax>307</xmax>
+		<ymax>199</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>215</xmin>
+		<ymin>132</ymin>
+		<xmax>500</xmax>
+		<ymax>494</ymax>
+	</bodybndbox>
+</object>
+</annotation>

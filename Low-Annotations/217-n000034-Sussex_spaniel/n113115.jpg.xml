@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>217-n000034-Sussex_spaniel</folder>
+	<filename>n113115.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Sussex_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>57</xmin>
+		<ymin>10</ymin>
+		<xmax>147</xmax>
+		<ymax>120</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>46</xmin>
+		<ymin>0</ymin>
+		<xmax>259</xmax>
+		<ymax>163</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>232-n000076-Brittany_spaniel</folder>
+	<filename>n121774.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Brittany_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>210</xmin>
+		<ymin>14</ymin>
+		<xmax>368</xmax>
+		<ymax>185</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>6</xmin>
+		<ymin>14</ymin>
+		<xmax>452</xmax>
+		<ymax>281</ymax>
+	</bodybndbox>
+</object>
+</annotation>

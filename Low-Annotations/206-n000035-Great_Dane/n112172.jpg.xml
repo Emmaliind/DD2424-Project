@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>206-n000035-Great_Dane</folder>
+	<filename>n112172.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>316</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Great_Dane</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>70</xmin>
+		<ymin>0</ymin>
+		<xmax>142</xmax>
+		<ymax>121</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>0</ymin>
+		<xmax>180</xmax>
+		<ymax>316</ymax>
+	</bodybndbox>
+</object>
+</annotation>

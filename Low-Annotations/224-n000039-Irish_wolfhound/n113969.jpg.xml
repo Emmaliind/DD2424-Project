@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>224-n000039-Irish_wolfhound</folder>
+	<filename>n113969.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Irish_wolfhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>347</xmin>
+		<ymin>86</ymin>
+		<xmax>421</xmax>
+		<ymax>160</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>348</xmin>
+		<ymin>82</ymin>
+		<xmax>500</xmax>
+		<ymax>306</ymax>
+	</bodybndbox>
+</object>
+</annotation>

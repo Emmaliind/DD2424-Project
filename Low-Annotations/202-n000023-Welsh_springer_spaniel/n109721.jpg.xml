@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>202-n000023-Welsh_springer_spaniel</folder>
+	<filename>n109721.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Welsh_springer_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>96</xmin>
+		<ymin>70</ymin>
+		<xmax>234</xmax>
+		<ymax>207</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>91</xmin>
+		<ymin>67</ymin>
+		<xmax>341</xmax>
+		<ymax>481</ymax>
+	</bodybndbox>
+</object>
+</annotation>

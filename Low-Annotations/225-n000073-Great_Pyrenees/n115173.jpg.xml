@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>225-n000073-Great_Pyrenees</folder>
+	<filename>n115173.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Great_Pyrenees</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>138</xmin>
+		<ymin>98</ymin>
+		<xmax>287</xmax>
+		<ymax>237</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>52</xmin>
+		<ymin>98</ymin>
+		<xmax>426</xmax>
+		<ymax>440</ymax>
+	</bodybndbox>
+</object>
+</annotation>

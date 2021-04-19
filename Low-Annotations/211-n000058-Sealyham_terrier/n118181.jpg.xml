@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000058-Sealyham_terrier</folder>
+	<filename>n118181.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Sealyham_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>176</xmin>
+		<ymin>83</ymin>
+		<xmax>381</xmax>
+		<ymax>295</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>176</xmin>
+		<ymin>83</ymin>
+		<xmax>492</xmax>
+		<ymax>480</ymax>
+	</bodybndbox>
+</object>
+</annotation>

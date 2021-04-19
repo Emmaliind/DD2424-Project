@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>245-n000098-Australian_Shepherd</folder>
+	<filename>n129018.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Australian_Shepherd</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>175</xmin>
+		<ymin>104</ymin>
+		<xmax>434</xmax>
+		<ymax>332</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>83</xmin>
+		<ymin>100</ymin>
+		<xmax>555</xmax>
+		<ymax>794</ymax>
+	</bodybndbox>
+</object>
+</annotation>

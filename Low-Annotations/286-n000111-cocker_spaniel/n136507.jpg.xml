@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>286-n000111-cocker_spaniel</folder>
+	<filename>n136507.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>157</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>cocker_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>88</xmin>
+		<ymin>24</ymin>
+		<xmax>157</xmax>
+		<ymax>94</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>26</xmin>
+		<ymin>24</ymin>
+		<xmax>247</xmax>
+		<ymax>145</ymax>
+	</bodybndbox>
+</object>
+</annotation>

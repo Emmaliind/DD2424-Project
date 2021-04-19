@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>200-n000010-miniature_poodle</folder>
+	<filename>n107556.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>miniature_poodle</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>188</xmin>
+		<ymin>151</ymin>
+		<xmax>245</xmax>
+		<ymax>210</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>136</xmin>
+		<ymin>151</ymin>
+		<xmax>245</xmax>
+		<ymax>285</ymax>
+	</bodybndbox>
+</object>
+</annotation>

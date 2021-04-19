@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>227-n000070-groenendael</folder>
+	<filename>n120671.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>groenendael</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>120</xmin>
+		<ymin>0</ymin>
+		<xmax>170</xmax>
+		<ymax>58</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>105</xmin>
+		<ymin>0</ymin>
+		<xmax>229</xmax>
+		<ymax>162</ymax>
+	</bodybndbox>
+</object>
+</annotation>

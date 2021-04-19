@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>223-n000074-English_foxhound</folder>
+	<filename>n121194.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>198</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>English_foxhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>8</xmin>
+		<ymin>4</ymin>
+		<xmax>86</xmax>
+		<ymax>68</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>5</xmin>
+		<ymin>0</ymin>
+		<xmax>197</xmax>
+		<ymax>253</ymax>
+	</bodybndbox>
+</object>
+</annotation>

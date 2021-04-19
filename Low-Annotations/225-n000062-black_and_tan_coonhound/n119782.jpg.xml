@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>225-n000062-black_and_tan_coonhound</folder>
+	<filename>n119782.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>167</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>black_and_tan_coonhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>156</xmin>
+		<ymin>0</ymin>
+		<xmax>223</xmax>
+		<ymax>62</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>31</xmin>
+		<ymin>0</ymin>
+		<xmax>224</xmax>
+		<ymax>166</ymax>
+	</bodybndbox>
+</object>
+</annotation>

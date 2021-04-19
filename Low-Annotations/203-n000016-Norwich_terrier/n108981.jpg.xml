@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>203-n000016-Norwich_terrier</folder>
+	<filename>n108981.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Norwich_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>29</xmin>
+		<ymin>4</ymin>
+		<xmax>113</xmax>
+		<ymax>90</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>29</xmin>
+		<ymin>4</ymin>
+		<xmax>247</xmax>
+		<ymax>201</ymax>
+	</bodybndbox>
+</object>
+</annotation>

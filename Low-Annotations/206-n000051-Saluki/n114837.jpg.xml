@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>206-n000051-Saluki</folder>
+	<filename>n114837.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Saluki</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>54</xmin>
+		<ymin>51</ymin>
+		<xmax>203</xmax>
+		<ymax>231</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>33</xmin>
+		<ymin>18</ymin>
+		<xmax>273</xmax>
+		<ymax>467</ymax>
+	</bodybndbox>
+</object>
+</annotation>

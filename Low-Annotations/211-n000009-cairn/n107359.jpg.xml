@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000009-cairn</folder>
+	<filename>n107359.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>cairn</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>143</xmin>
+		<ymin>61</ymin>
+		<xmax>258</xmax>
+		<ymax>181</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>87</xmin>
+		<ymin>61</ymin>
+		<xmax>258</xmax>
+		<ymax>274</ymax>
+	</bodybndbox>
+</object>
+</annotation>

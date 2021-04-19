@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>206-n000047-flat_coated_retriever</folder>
+	<filename>n112500.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>flat_coated_retriever</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>132</xmin>
+		<ymin>2</ymin>
+		<xmax>413</xmax>
+		<ymax>327</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>9</xmin>
+		<ymin>8</ymin>
+		<xmax>423</xmax>
+		<ymax>375</ymax>
+	</bodybndbox>
+</object>
+</annotation>

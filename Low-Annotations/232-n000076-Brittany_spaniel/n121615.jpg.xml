@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>232-n000076-Brittany_spaniel</folder>
+	<filename>n121615.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>168</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Brittany_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>29</xmin>
+		<ymin>71</ymin>
+		<xmax>81</xmax>
+		<ymax>122</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>24</xmin>
+		<ymin>66</ymin>
+		<xmax>161</xmax>
+		<ymax>202</ymax>
+	</bodybndbox>
+</object>
+</annotation>

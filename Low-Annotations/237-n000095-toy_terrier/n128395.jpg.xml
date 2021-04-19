@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>237-n000095-toy_terrier</folder>
+	<filename>n128395.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>toy_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>69</xmin>
+		<ymin>10</ymin>
+		<xmax>126</xmax>
+		<ymax>68</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>66</xmin>
+		<ymin>6</ymin>
+		<xmax>260</xmax>
+		<ymax>176</ymax>
+	</bodybndbox>
+</object>
+</annotation>

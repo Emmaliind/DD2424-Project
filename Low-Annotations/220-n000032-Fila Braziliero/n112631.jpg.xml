@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>220-n000032-Fila Braziliero</folder>
+	<filename>n112631.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Fila Braziliero</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>66</xmin>
+		<ymin>58</ymin>
+		<xmax>249</xmax>
+		<ymax>229</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>60</xmin>
+		<ymin>45</ymin>
+		<xmax>750</xmax>
+		<ymax>531</ymax>
+	</bodybndbox>
+</object>
+</annotation>

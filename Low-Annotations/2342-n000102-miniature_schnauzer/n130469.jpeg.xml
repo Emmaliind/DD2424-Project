@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>2342-n000102-miniature_schnauzer</folder>
+	<filename>n130469.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>miniature_schnauzer</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>127</xmin>
+		<ymin>195</ymin>
+		<xmax>496</xmax>
+		<ymax>478</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>127</xmin>
+		<ymin>88</ymin>
+		<xmax>544</xmax>
+		<ymax>697</ymax>
+	</bodybndbox>
+</object>
+</annotation>

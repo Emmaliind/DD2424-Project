@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>230-n000041-briard</folder>
+	<filename>n114420.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>briard</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>109</xmin>
+		<ymin>51</ymin>
+		<xmax>227</xmax>
+		<ymax>221</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>74</xmin>
+		<ymin>51</ymin>
+		<xmax>299</xmax>
+		<ymax>424</ymax>
+	</bodybndbox>
+</object>
+</annotation>

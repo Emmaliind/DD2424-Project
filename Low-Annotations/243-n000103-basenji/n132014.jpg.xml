@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>243-n000103-basenji</folder>
+	<filename>n132014.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>1348</width>
+		<height>1007</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>basenji</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>678</xmin>
+		<ymin>388</ymin>
+		<xmax>785</xmax>
+		<ymax>517</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>439</xmin>
+		<ymin>390</ymin>
+		<xmax>786</xmax>
+		<ymax>746</ymax>
+	</bodybndbox>
+</object>
+</annotation>

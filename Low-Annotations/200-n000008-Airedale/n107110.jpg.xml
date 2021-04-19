@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>200-n000008-Airedale</folder>
+	<filename>n107110.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Airedale</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>128</xmin>
+		<ymin>32</ymin>
+		<xmax>282</xmax>
+		<ymax>173</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>102</xmin>
+		<ymin>25</ymin>
+		<xmax>340</xmax>
+		<ymax>329</ymax>
+	</bodybndbox>
+</object>
+</annotation>

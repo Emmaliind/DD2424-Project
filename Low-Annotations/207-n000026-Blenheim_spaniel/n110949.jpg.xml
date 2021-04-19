@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>207-n000026-Blenheim_spaniel</folder>
+	<filename>n110949.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Blenheim_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>95</xmin>
+		<ymin>3</ymin>
+		<xmax>187</xmax>
+		<ymax>91</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>89</xmin>
+		<ymin>2</ymin>
+		<xmax>197</xmax>
+		<ymax>179</ymax>
+	</bodybndbox>
+</object>
+</annotation>

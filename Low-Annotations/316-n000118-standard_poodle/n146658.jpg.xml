@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>316-n000118-standard_poodle</folder>
+	<filename>n146658.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>standard_poodle</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>240</xmin>
+		<ymin>50</ymin>
+		<xmax>455</xmax>
+		<ymax>268</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>65</xmin>
+		<ymin>12</ymin>
+		<xmax>455</xmax>
+		<ymax>395</ymax>
+	</bodybndbox>
+</object>
+</annotation>

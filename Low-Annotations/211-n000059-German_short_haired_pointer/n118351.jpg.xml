@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000059-German_short_haired_pointer</folder>
+	<filename>n118351.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>264</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>German_short_haired_pointer</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>303</xmin>
+		<ymin>1</ymin>
+		<xmax>495</xmax>
+		<ymax>189</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>7</xmin>
+		<ymin>1</ymin>
+		<xmax>499</xmax>
+		<ymax>263</ymax>
+	</bodybndbox>
+</object>
+</annotation>

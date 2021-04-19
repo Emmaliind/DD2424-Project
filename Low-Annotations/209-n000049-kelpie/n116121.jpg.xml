@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>209-n000049-kelpie</folder>
+	<filename>n116121.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>kelpie</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>29</xmin>
+		<ymin>5</ymin>
+		<xmax>91</xmax>
+		<ymax>85</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>24</xmin>
+		<ymin>2</ymin>
+		<xmax>247</xmax>
+		<ymax>178</ymax>
+	</bodybndbox>
+</object>
+</annotation>

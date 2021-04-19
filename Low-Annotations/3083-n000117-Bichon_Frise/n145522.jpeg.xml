@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>3083-n000117-Bichon_Frise</folder>
+	<filename>n145522.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Bichon_Frise</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>214</xmin>
+		<ymin>10</ymin>
+		<xmax>322</xmax>
+		<ymax>116</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>3</ymin>
+		<xmax>327</xmax>
+		<ymax>187</ymax>
+	</bodybndbox>
+</object>
+</annotation>

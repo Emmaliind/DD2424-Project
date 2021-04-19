@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>258-n000104-Black_sable</folder>
+	<filename>n132243.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Black_sable</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>236</xmin>
+		<ymin>140</ymin>
+		<xmax>395</xmax>
+		<ymax>430</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>221</xmin>
+		<ymin>146</ymin>
+		<xmax>481</xmax>
+		<ymax>766</ymax>
+	</bodybndbox>
+</object>
+</annotation>

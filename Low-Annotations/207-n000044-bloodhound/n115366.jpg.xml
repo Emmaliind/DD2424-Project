@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>207-n000044-bloodhound</folder>
+	<filename>n115366.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>bloodhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>124</xmin>
+		<ymin>137</ymin>
+		<xmax>250</xmax>
+		<ymax>261</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>124</xmin>
+		<ymin>72</ymin>
+		<xmax>434</xmax>
+		<ymax>327</ymax>
+	</bodybndbox>
+</object>
+</annotation>

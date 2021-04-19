@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>561-n000127-miniature_pinscher</folder>
+	<filename>n161581.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>562</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>miniature_pinscher</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>95</xmin>
+		<ymin>35</ymin>
+		<xmax>390</xmax>
+		<ymax>297</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>36</xmin>
+		<ymin>35</ymin>
+		<xmax>562</xmax>
+		<ymax>556</ymax>
+	</bodybndbox>
+</object>
+</annotation>

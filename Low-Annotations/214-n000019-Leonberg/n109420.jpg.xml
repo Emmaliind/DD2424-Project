@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>214-n000019-Leonberg</folder>
+	<filename>n109420.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Leonberg</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>50</xmin>
+		<ymin>57</ymin>
+		<xmax>189</xmax>
+		<ymax>156</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>50</xmin>
+		<ymin>57</ymin>
+		<xmax>224</xmax>
+		<ymax>340</ymax>
+	</bodybndbox>
+</object>
+</annotation>

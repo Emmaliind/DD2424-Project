@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>226-n000057-wire_haired_fox_terrier</folder>
+	<filename>n117819.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>wire_haired_fox_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>73</xmin>
+		<ymin>30</ymin>
+		<xmax>146</xmax>
+		<ymax>111</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>37</xmin>
+		<ymin>30</ymin>
+		<xmax>172</xmax>
+		<ymax>234</ymax>
+	</bodybndbox>
+</object>
+</annotation>

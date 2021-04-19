@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>209-n000043-dhole</folder>
+	<filename>n113503.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>dhole</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>44</xmin>
+		<ymin>17</ymin>
+		<xmax>204</xmax>
+		<ymax>159</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>15</ymin>
+		<xmax>215</xmax>
+		<ymax>220</ymax>
+	</bodybndbox>
+</object>
+</annotation>

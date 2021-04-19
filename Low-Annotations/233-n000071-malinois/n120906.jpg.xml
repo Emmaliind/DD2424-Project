@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>233-n000071-malinois</folder>
+	<filename>n120906.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>169</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>malinois</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>84</xmin>
+		<ymin>0</ymin>
+		<xmax>218</xmax>
+		<ymax>146</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>84</xmin>
+		<ymin>0</ymin>
+		<xmax>240</xmax>
+		<ymax>169</ymax>
+	</bodybndbox>
+</object>
+</annotation>

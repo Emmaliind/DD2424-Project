@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>226-n000064-borzoi</folder>
+	<filename>n119000.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>328</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>borzoi</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>131</xmin>
+		<ymin>111</ymin>
+		<xmax>214</xmax>
+		<ymax>150</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>131</xmin>
+		<ymin>110</ymin>
+		<xmax>357</xmax>
+		<ymax>305</ymax>
+	</bodybndbox>
+</object>
+</annotation>

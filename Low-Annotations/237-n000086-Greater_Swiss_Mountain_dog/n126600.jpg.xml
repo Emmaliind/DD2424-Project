@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>237-n000086-Greater_Swiss_Mountain_dog</folder>
+	<filename>n126600.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Greater_Swiss_Mountain_dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>25</xmin>
+		<ymin>44</ymin>
+		<xmax>97</xmax>
+		<ymax>108</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>21</xmin>
+		<ymin>39</ymin>
+		<xmax>183</xmax>
+		<ymax>255</ymax>
+	</bodybndbox>
+</object>
+</annotation>

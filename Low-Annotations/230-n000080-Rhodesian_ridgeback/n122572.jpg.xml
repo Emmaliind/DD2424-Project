@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>230-n000080-Rhodesian_ridgeback</folder>
+	<filename>n122572.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>239</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Rhodesian_ridgeback</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>143</xmin>
+		<ymin>36</ymin>
+		<xmax>193</xmax>
+		<ymax>75</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>102</xmin>
+		<ymin>36</ymin>
+		<xmax>193</xmax>
+		<ymax>162</ymax>
+	</bodybndbox>
+</object>
+</annotation>

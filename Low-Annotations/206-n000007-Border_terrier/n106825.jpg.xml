@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>206-n000007-Border_terrier</folder>
+	<filename>n106825.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>261</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Border_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>46</xmin>
+		<ymin>17</ymin>
+		<xmax>170</xmax>
+		<ymax>123</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>3</xmin>
+		<ymin>15</ymin>
+		<xmax>193</xmax>
+		<ymax>259</ymax>
+	</bodybndbox>
+</object>
+</annotation>

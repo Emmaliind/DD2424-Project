@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>200-n000012-affenpinscher</folder>
+	<filename>n107881.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>affenpinscher</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>10</xmin>
+		<ymin>3</ymin>
+		<xmax>100</xmax>
+		<ymax>87</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>9</xmin>
+		<ymin>0</ymin>
+		<xmax>206</xmax>
+		<ymax>221</ymax>
+	</bodybndbox>
+</object>
+</annotation>

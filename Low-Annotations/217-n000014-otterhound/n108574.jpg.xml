@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>217-n000014-otterhound</folder>
+	<filename>n108574.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>otterhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>36</xmin>
+		<ymin>6</ymin>
+		<xmax>180</xmax>
+		<ymax>137</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>31</xmin>
+		<ymin>5</ymin>
+		<xmax>408</xmax>
+		<ymax>436</ymax>
+	</bodybndbox>
+</object>
+</annotation>

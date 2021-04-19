@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>216-n000063-Walker_hound</folder>
+	<filename>n118869.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Walker_hound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>28</xmin>
+		<ymin>4</ymin>
+		<xmax>178</xmax>
+		<ymax>118</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>2</xmin>
+		<ymin>2</ymin>
+		<xmax>284</xmax>
+		<ymax>286</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>231-n000077-bull_mastiff</folder>
+	<filename>n122036.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>257</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>bull_mastiff</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>119</xmin>
+		<ymin>69</ymin>
+		<xmax>190</xmax>
+		<ymax>124</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>66</ymin>
+		<xmax>191</xmax>
+		<ymax>251</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>257-n000108-Old_English_sheepdog</folder>
+	<filename>n133280.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Old_English_sheepdog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>97</xmin>
+		<ymin>25</ymin>
+		<xmax>225</xmax>
+		<ymax>179</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>97</xmin>
+		<ymin>25</ymin>
+		<xmax>430</xmax>
+		<ymax>437</ymax>
+	</bodybndbox>
+</object>
+</annotation>

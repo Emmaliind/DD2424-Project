@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000052-Dandie_Dinmont</folder>
+	<filename>n116788.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Dandie_Dinmont</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>209</xmin>
+		<ymin>58</ymin>
+		<xmax>370</xmax>
+		<ymax>240</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>4</xmin>
+		<ymin>58</ymin>
+		<xmax>405</xmax>
+		<ymax>316</ymax>
+	</bodybndbox>
+</object>
+</annotation>

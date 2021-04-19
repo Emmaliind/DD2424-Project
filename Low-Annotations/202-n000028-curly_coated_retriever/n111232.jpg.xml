@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>202-n000028-curly_coated_retriever</folder>
+	<filename>n111232.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>195</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>curly_coated_retriever</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>67</xmin>
+		<ymin>28</ymin>
+		<xmax>141</xmax>
+		<ymax>91</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>16</xmin>
+		<ymin>25</ymin>
+		<xmax>143</xmax>
+		<ymax>240</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>231-n000081-silky_terrier</folder>
+	<filename>n122880.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>silky_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>38</xmin>
+		<ymin>0</ymin>
+		<xmax>360</xmax>
+		<ymax>325</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>7</xmin>
+		<ymin>0</ymin>
+		<xmax>356</xmax>
+		<ymax>488</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>233-n000072-Bouvier_des_Flandres</folder>
+	<filename>n120981.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Bouvier_des_Flandres</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>12</xmin>
+		<ymin>14</ymin>
+		<xmax>93</xmax>
+		<ymax>103</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>12</xmin>
+		<ymin>14</ymin>
+		<xmax>199</xmax>
+		<ymax>240</ymax>
+	</bodybndbox>
+</object>
+</annotation>

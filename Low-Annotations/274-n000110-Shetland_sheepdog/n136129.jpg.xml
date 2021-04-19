@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>274-n000110-Shetland_sheepdog</folder>
+	<filename>n136129.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Shetland_sheepdog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>121</xmin>
+		<ymin>2</ymin>
+		<xmax>430</xmax>
+		<ymax>288</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>81</xmin>
+		<ymin>2</ymin>
+		<xmax>499</xmax>
+		<ymax>352</ymax>
+	</bodybndbox>
+</object>
+</annotation>

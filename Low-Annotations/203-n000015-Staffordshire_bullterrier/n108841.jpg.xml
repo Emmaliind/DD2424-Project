@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>203-n000015-Staffordshire_bullterrier</folder>
+	<filename>n108841.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Staffordshire_bullterrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>26</xmin>
+		<ymin>2</ymin>
+		<xmax>90</xmax>
+		<ymax>68</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>5</xmin>
+		<ymin>3</ymin>
+		<xmax>135</xmax>
+		<ymax>154</ymax>
+	</bodybndbox>
+</object>
+</annotation>

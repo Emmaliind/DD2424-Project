@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>420-n000124-Chihuahua</folder>
+	<filename>n155101.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Chihuahua</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>355</xmin>
+		<ymin>266</ymin>
+		<xmax>468</xmax>
+		<ymax>399</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>223</xmin>
+		<ymin>276</ymin>
+		<xmax>468</xmax>
+		<ymax>576</ymax>
+	</bodybndbox>
+</object>
+</annotation>

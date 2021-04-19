@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>202-n000020-Australian_terrier</folder>
+	<filename>n109907.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Australian_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>232</xmin>
+		<ymin>49</ymin>
+		<xmax>426</xmax>
+		<ymax>261</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>78</xmin>
+		<ymin>25</ymin>
+		<xmax>460</xmax>
+		<ymax>356</ymax>
+	</bodybndbox>
+</object>
+</annotation>

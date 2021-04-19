@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>235-n000090-soft_coated_wheaten_terrier</folder>
+	<filename>n127243.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>258</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>soft_coated_wheaten_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>69</xmin>
+		<ymin>37</ymin>
+		<xmax>183</xmax>
+		<ymax>156</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>7</xmin>
+		<ymin>32</ymin>
+		<xmax>185</xmax>
+		<ymax>258</ymax>
+	</bodybndbox>
+</object>
+</annotation>

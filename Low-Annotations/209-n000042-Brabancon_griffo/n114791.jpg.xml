@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>209-n000042-Brabancon_griffo</folder>
+	<filename>n114791.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Brabancon_griffo</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>99</xmin>
+		<ymin>97</ymin>
+		<xmax>150</xmax>
+		<ymax>140</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>81</xmin>
+		<ymin>98</ymin>
+		<xmax>219</xmax>
+		<ymax>224</ymax>
+	</bodybndbox>
+</object>
+</annotation>

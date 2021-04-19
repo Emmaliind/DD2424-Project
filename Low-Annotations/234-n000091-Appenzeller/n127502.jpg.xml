@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>234-n000091-Appenzeller</folder>
+	<filename>n127502.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Appenzeller</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>67</xmin>
+		<ymin>26</ymin>
+		<xmax>140</xmax>
+		<ymax>85</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>67</xmin>
+		<ymin>18</ymin>
+		<xmax>223</xmax>
+		<ymax>159</ymax>
+	</bodybndbox>
+</object>
+</annotation>

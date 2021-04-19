@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>211-n000068-Saint_Bernard</folder>
+	<filename>n119458.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Saint_Bernard</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>21</xmin>
+		<ymin>26</ymin>
+		<xmax>114</xmax>
+		<ymax>113</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>21</xmin>
+		<ymin>26</ymin>
+		<xmax>244</xmax>
+		<ymax>277</ymax>
+	</bodybndbox>
+</object>
+</annotation>

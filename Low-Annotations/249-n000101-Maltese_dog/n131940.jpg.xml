@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>249-n000101-Maltese_dog</folder>
+	<filename>n131940.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Maltese_dog</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>92</xmin>
+		<ymin>52</ymin>
+		<xmax>246</xmax>
+		<ymax>182</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>71</xmin>
+		<ymin>52</ymin>
+		<xmax>246</xmax>
+		<ymax>225</ymax>
+	</bodybndbox>
+</object>
+</annotation>

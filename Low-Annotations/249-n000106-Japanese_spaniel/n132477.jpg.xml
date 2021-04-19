@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>249-n000106-Japanese_spaniel</folder>
+	<filename>n132477.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Japanese_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>35</xmin>
+		<ymin>50</ymin>
+		<xmax>185</xmax>
+		<ymax>194</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>44</ymin>
+		<xmax>202</xmax>
+		<ymax>225</ymax>
+	</bodybndbox>
+</object>
+</annotation>

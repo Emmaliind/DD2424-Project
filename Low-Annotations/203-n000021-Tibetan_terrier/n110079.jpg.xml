@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>203-n000021-Tibetan_terrier</folder>
+	<filename>n110079.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Tibetan_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>49</xmin>
+		<ymin>69</ymin>
+		<xmax>230</xmax>
+		<ymax>234</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>51</xmin>
+		<ymin>66</ymin>
+		<xmax>263</xmax>
+		<ymax>399</ymax>
+	</bodybndbox>
+</object>
+</annotation>

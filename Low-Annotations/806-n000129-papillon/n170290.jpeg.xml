@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>806-n000129-papillon</folder>
+	<filename>n170290.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>papillon</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>416</xmin>
+		<ymin>240</ymin>
+		<xmax>623</xmax>
+		<ymax>401</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>120</xmin>
+		<ymin>190</ymin>
+		<xmax>625</xmax>
+		<ymax>616</ymax>
+	</bodybndbox>
+</object>
+</annotation>

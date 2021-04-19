@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>223-n000092-keeshond</folder>
+	<filename>n127278.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>221</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>keeshond</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>31</xmin>
+		<ymin>10</ymin>
+		<xmax>108</xmax>
+		<ymax>109</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>20</xmin>
+		<ymin>3</ymin>
+		<xmax>209</xmax>
+		<ymax>224</ymax>
+	</bodybndbox>
+</object>
+</annotation>

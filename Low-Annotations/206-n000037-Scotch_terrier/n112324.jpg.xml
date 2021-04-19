@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>206-n000037-Scotch_terrier</folder>
+	<filename>n112324.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Scotch_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>179</xmin>
+		<ymin>89</ymin>
+		<xmax>269</xmax>
+		<ymax>221</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>20</xmin>
+		<ymin>84</ymin>
+		<xmax>271</xmax>
+		<ymax>279</ymax>
+	</bodybndbox>
+</object>
+</annotation>

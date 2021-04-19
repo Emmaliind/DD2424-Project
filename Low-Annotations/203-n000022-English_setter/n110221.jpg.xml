@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>203-n000022-English_setter</folder>
+	<filename>n110221.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>English_setter</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>77</xmin>
+		<ymin>69</ymin>
+		<xmax>174</xmax>
+		<ymax>154</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>75</xmin>
+		<ymin>15</ymin>
+		<xmax>295</xmax>
+		<ymax>234</ymax>
+	</bodybndbox>
+</object>
+</annotation>

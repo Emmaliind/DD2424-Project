@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>230-n000084-Boston_bull</folder>
+	<filename>n123849.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Boston_bull</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>192</xmin>
+		<ymin>52</ymin>
+		<xmax>380</xmax>
+		<ymax>243</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>24</xmin>
+		<ymin>52</ymin>
+		<xmax>376</xmax>
+		<ymax>318</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>2925-n000114-toy_poodle</folder>
+	<filename>n142126.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>toy_poodle</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>149</xmin>
+		<ymin>3</ymin>
+		<xmax>573</xmax>
+		<ymax>383</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>139</xmin>
+		<ymin>3</ymin>
+		<xmax>573</xmax>
+		<ymax>713</ymax>
+	</bodybndbox>
+</object>
+</annotation>

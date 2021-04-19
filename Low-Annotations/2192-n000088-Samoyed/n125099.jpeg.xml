@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>2192-n000088-Samoyed</folder>
+	<filename>n125099.jpeg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Samoyed</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>119</xmin>
+		<ymin>322</ymin>
+		<xmax>229</xmax>
+		<ymax>452</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>117</xmin>
+		<ymin>262</ymin>
+		<xmax>606</xmax>
+		<ymax>614</ymax>
+	</bodybndbox>
+</object>
+</annotation>

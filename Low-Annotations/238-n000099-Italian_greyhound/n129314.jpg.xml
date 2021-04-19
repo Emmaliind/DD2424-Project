@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>238-n000099-Italian_greyhound</folder>
+	<filename>n129314.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Italian_greyhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>173</xmin>
+		<ymin>113</ymin>
+		<xmax>389</xmax>
+		<ymax>285</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>173</xmin>
+		<ymin>0</ymin>
+		<xmax>388</xmax>
+		<ymax>430</ymax>
+	</bodybndbox>
+</object>
+</annotation>

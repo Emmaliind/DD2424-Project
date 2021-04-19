@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>220-n000053-standard_schnauzer</folder>
+	<filename>n117068.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>standard_schnauzer</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>71</xmin>
+		<ymin>7</ymin>
+		<xmax>248</xmax>
+		<ymax>183</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>50</xmin>
+		<ymin>23</ymin>
+		<xmax>309</xmax>
+		<ymax>360</ymax>
+	</bodybndbox>
+</object>
+</annotation>

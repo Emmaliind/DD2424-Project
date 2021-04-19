@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>215-n000038-Lhasa</folder>
+	<filename>n113446.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Lhasa</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>84</xmin>
+		<ymin>68</ymin>
+		<xmax>312</xmax>
+		<ymax>285</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>33</xmin>
+		<ymin>30</ymin>
+		<xmax>324</xmax>
+		<ymax>494</ymax>
+	</bodybndbox>
+</object>
+</annotation>

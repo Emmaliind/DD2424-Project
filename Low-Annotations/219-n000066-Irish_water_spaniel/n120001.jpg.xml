@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>219-n000066-Irish_water_spaniel</folder>
+	<filename>n120001.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>207</width>
+		<height>243</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Irish_water_spaniel</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>3</xmin>
+		<ymin>7</ymin>
+		<xmax>84</xmax>
+		<ymax>83</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>1</xmin>
+		<ymin>4</ymin>
+		<xmax>234</xmax>
+		<ymax>204</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>235-n000097-clumber</folder>
+	<filename>n128420.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>clumber</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>31</xmin>
+		<ymin>11</ymin>
+		<xmax>112</xmax>
+		<ymax>69</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>35</xmin>
+		<ymin>9</ymin>
+		<xmax>275</xmax>
+		<ymax>169</ymax>
+	</bodybndbox>
+</object>
+</annotation>

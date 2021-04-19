@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>209-n000054-Doberman</folder>
+	<filename>n117249.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Doberman</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>283</xmin>
+		<ymin>37</ymin>
+		<xmax>423</xmax>
+		<ymax>157</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>50</xmin>
+		<ymin>26</ymin>
+		<xmax>452</xmax>
+		<ymax>379</ymax>
+	</bodybndbox>
+</object>
+</annotation>

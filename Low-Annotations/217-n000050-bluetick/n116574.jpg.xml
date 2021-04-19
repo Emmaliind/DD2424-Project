@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>217-n000050-bluetick</folder>
+	<filename>n116574.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>bluetick</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>12</xmin>
+		<ymin>36</ymin>
+		<xmax>289</xmax>
+		<ymax>333</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>11</xmin>
+		<ymin>0</ymin>
+		<xmax>299</xmax>
+		<ymax>500</ymax>
+	</bodybndbox>
+</object>
+</annotation>

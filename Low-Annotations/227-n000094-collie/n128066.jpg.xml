@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>227-n000094-collie</folder>
+	<filename>n128066.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>191</width>
+		<height>244</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>collie</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>61</xmin>
+		<ymin>38</ymin>
+		<xmax>132</xmax>
+		<ymax>118</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>6</xmin>
+		<ymin>38</ymin>
+		<xmax>157</xmax>
+		<ymax>244</ymax>
+	</bodybndbox>
+</object>
+</annotation>

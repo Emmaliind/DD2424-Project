@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>224-n000056-Scottish_deerhound</folder>
+	<filename>n117636.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Scottish_deerhound</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>198</xmin>
+		<ymin>115</ymin>
+		<xmax>255</xmax>
+		<ymax>168</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>196</xmin>
+		<ymin>116</ymin>
+		<xmax>386</xmax>
+		<ymax>292</ymax>
+	</bodybndbox>
+</object>
+</annotation>

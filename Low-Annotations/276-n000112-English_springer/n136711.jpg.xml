@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>276-n000112-English_springer</folder>
+	<filename>n136711.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>English_springer</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>95</xmin>
+		<ymin>12</ymin>
+		<xmax>191</xmax>
+		<ymax>102</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>15</xmin>
+		<ymin>11</ymin>
+		<xmax>194</xmax>
+		<ymax>225</ymax>
+	</bodybndbox>
+</object>
+</annotation>

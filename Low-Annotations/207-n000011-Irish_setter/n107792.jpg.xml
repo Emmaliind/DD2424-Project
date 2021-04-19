@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>207-n000011-Irish_setter</folder>
+	<filename>n107792.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Irish_setter</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>112</xmin>
+		<ymin>167</ymin>
+		<xmax>232</xmax>
+		<ymax>289</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>167</ymin>
+		<xmax>256</xmax>
+		<ymax>495</ymax>
+	</bodybndbox>
+</object>
+</annotation>

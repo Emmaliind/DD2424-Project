@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>214-n000033-Bedlington_terrier</folder>
+	<filename>n113026.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Bedlington_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>175</xmin>
+		<ymin>41</ymin>
+		<xmax>267</xmax>
+		<ymax>148</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>76</xmin>
+		<ymin>41</ymin>
+		<xmax>301</xmax>
+		<ymax>235</ymax>
+	</bodybndbox>
+</object>
+</annotation>

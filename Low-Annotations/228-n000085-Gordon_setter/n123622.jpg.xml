@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>228-n000085-Gordon_setter</folder>
+	<filename>n123622.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Gordon_setter</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>185</xmin>
+		<ymin>0</ymin>
+		<xmax>252</xmax>
+		<ymax>50</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>0</ymin>
+		<xmax>256</xmax>
+		<ymax>187</ymax>
+	</bodybndbox>
+</object>
+</annotation>

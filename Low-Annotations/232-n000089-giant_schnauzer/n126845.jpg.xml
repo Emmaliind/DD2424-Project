@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>232-n000089-giant_schnauzer</folder>
+	<filename>n126845.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>giant_schnauzer</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>2</xmin>
+		<ymin>37</ymin>
+		<xmax>59</xmax>
+		<ymax>95</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>0</xmin>
+		<ymin>38</ymin>
+		<xmax>224</xmax>
+		<ymax>157</ymax>
+	</bodybndbox>
+</object>
+</annotation>

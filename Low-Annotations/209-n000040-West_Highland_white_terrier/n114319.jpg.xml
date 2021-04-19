@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>209-n000040-West_Highland_white_terrier</folder>
+	<filename>n114319.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>West_Highland_white_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>188</xmin>
+		<ymin>136</ymin>
+		<xmax>374</xmax>
+		<ymax>482</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>166</xmin>
+		<ymin>136</ymin>
+		<xmax>374</xmax>
+		<ymax>500</ymax>
+	</bodybndbox>
+</object>
+</annotation>

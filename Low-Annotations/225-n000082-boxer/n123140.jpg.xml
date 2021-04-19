@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>225-n000082-boxer</folder>
+	<filename>n123140.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>841</width>
+		<height>795</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>boxer</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>313</xmin>
+		<ymin>182</ymin>
+		<xmax>668</xmax>
+		<ymax>511</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>303</xmin>
+		<ymin>173</ymin>
+		<xmax>840</xmax>
+		<ymax>734</ymax>
+	</bodybndbox>
+</object>
+</annotation>

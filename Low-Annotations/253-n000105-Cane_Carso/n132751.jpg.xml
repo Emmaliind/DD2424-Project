@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>253-n000105-Cane_Carso</folder>
+	<filename>n132751.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Cane_Carso</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>329</xmin>
+		<ymin>440</ymin>
+		<xmax>440</xmax>
+		<ymax>566</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>303</xmin>
+		<ymin>432</ymin>
+		<xmax>481</xmax>
+		<ymax>755</ymax>
+	</bodybndbox>
+</object>
+</annotation>

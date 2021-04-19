@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>205-n000030-Tibetan_mastiff</folder>
+	<filename>n111689.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Tibetan_mastiff</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>248</xmin>
+		<ymin>100</ymin>
+		<xmax>639</xmax>
+		<ymax>419</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>170</xmin>
+		<ymin>91</ymin>
+		<xmax>703</xmax>
+		<ymax>1021</ymax>
+	</bodybndbox>
+</object>
+</annotation>

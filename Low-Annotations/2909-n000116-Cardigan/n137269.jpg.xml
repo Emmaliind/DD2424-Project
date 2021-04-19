@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>2909-n000116-Cardigan</folder>
+	<filename>n137269.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>342</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Cardigan</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>233</xmin>
+		<ymin>367</ymin>
+		<xmax>287</xmax>
+		<ymax>427</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>212</xmin>
+		<ymin>350</ymin>
+		<xmax>302</xmax>
+		<ymax>476</ymax>
+	</bodybndbox>
+</object>
+</annotation>

@@ -1,0 +1,32 @@
+﻿
+<annotation>
+	<folder>216-n000017-Lakeland_terrier</folder>
+	<filename>n109115.jpg</filename>
+	<source>
+		<database>THU-Dogs database</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segment>0</segment>
+	<object>
+	<name>Lakeland_terrier</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<headbndbox>
+		<xmin>861</xmin>
+		<ymin>359</ymin>
+		<xmax>1665</xmax>
+		<ymax>1331</ymax>
+	</headbndbox>
+	<bodybndbox>
+		<xmin>384</xmin>
+		<ymin>310</ymin>
+		<xmax>1682</xmax>
+		<ymax>1686</ymax>
+	</bodybndbox>
+</object>
+</annotation>
