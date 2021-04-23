@@ -12,7 +12,7 @@ from tensorflow.keras import datasets, layers, models
 #DATA_PATH = '/content/data/???'
 TRAIN_SPLIT = 'Dataset/TrainAndValList/train.lst'
 TEST_SPLIT = 'Dataset/TrainAndValList/validation.lst'
-DATA = 'Dataset/Low-Resolution/200-n000008-Airedale'
+#DATA = 'Dataset/Low-Resolution/200-n000008-Airedale'
 
 # Data handling
 # FROM https://github.com/RuoyiDu/PMG-Progressive-Multi-Granularity-Training/blob/master/organize_dataset.py
