@@ -33,6 +33,8 @@ with open(TRAIN_SPLIT) as fp:
           os.makedirs(dataFolder_train)
         if not os.path.exists(dataFolder_val):
           os.makedirs(dataFolder_val) 
+        if not os.path.exists(dataFolder_test):
+          os.makedirs(dataFolder_test)
         line = fp.readline()
 
 # # Creating structure split for training data and test data
@@ -48,7 +50,7 @@ with open(TRAIN_SPLIT) as fp:
        split[int(image_id)] = 'train'
        line = fp.readline()
 
-with open(TEST_SPLIT) as fp:
+with open(VAL_SPLIT) as fp:
    line = fp.readline()
    while line:
        line = line.strip()
