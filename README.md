@@ -8,6 +8,6 @@ This **repository** contains the code and data for the project in the course DD2
 
 ./data: 16 classes split into train-val-test sets used for developing model (the rest of the dataset was stored on Google Drive).
 
-main_model.ipynb: main source code for the model. Developed using Google Colab. 
+main.ipynb: main source code for the model. Developed using Google Colab. 
 
 organize_data: contains code for splitting data into train-val-test sets. 
