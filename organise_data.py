@@ -1,18 +1,14 @@
-#basic 
 import os
 import numpy as np
 import matplotlib.pyplot as plt
 import shutil, os
 import random
 
-
 TRAIN_SPLIT = 'Dataset/TrainAndValList/train.lst'
 VAL_SPLIT = 'Dataset/TrainAndValList/validation.lst'
 
 # Data handling
-# FROM https://github.com/RuoyiDu/PMG-Progressive-Multi-Granularity-Training/blob/master/organize_dataset.py
 split = {}
-
 # Creating folders for training and test data
 with open(TRAIN_SPLIT) as fp:
    line = fp.readline()
@@ -22,8 +18,6 @@ with open(TRAIN_SPLIT) as fp:
         line = line.strip()
         tmp = line.replace('.//', '')
         class_name, _ = tmp.split('/')
-        #class_name, _, _ = line.split('-')
-        #_, _, class_name = class_name.split('/')
         
         dataFolder_train = 'data/dataset/train/' + class_name
         dataFolder_val = 'data/dataset/val/' + class_name
@@ -37,7 +31,7 @@ with open(TRAIN_SPLIT) as fp:
           os.makedirs(dataFolder_test)
         line = fp.readline()
 
-# # Creating structure split for training data and test data
+# Creating structure split for training data and test data
 with open(TRAIN_SPLIT) as fp:
    line = fp.readline()
    while line:
@@ -64,7 +58,7 @@ with open(VAL_SPLIT) as fp:
        tmp = line.replace('.//', '')
        line = fp.readline()
 
-# # Put training and validation data into correct directories
+# Put training and validation data into correct directories
 from pathlib import Path
 with open(TRAIN_SPLIT, mode='r', encoding='utf-8-sig') as fp:
    line = fp.readline()
@@ -108,9 +102,4 @@ for subdir, dirs, files in os.walk(rootdir):
       no_of_files = int(len(files) * 0.2)
 
       for file_name in random.sample(files, no_of_files):
-         #print("image: ", file_name, "path: ", os.path.join(source, file_name), dest)
          shutil.move(os.path.join(source, file_name), dest)
-
-
-
-
